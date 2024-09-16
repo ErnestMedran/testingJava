@@ -23,6 +23,8 @@ public class Main {
         System.out.println("Seleccione un sabor de helado:");
         System.out.println("1. Vainilla");
         System.out.println("2. Chocolate");
+        String Mitext = "HOLA JAVA DEVELOPERS";
+        System.out.println(":D = " + Mitext);
         System.out.println("3. Fresa");
         System.out.print("Ingrese el número correspondiente al sabor: ");
 
